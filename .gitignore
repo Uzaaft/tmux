@@ -8,6 +8,7 @@
 .deps/
 .dirstamp
 .serena/
+.zig-cache/
 AGENTS.md
 Makefile
 Makefile.in
@@ -24,3 +25,4 @@ fuzz/*-fuzzer
 tags
 tmux
 tmux.1.*
+zig-out/
